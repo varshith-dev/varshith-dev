@@ -1,58 +1,58 @@
-<h1 align="center">Hi there, I'm Varshith 👋</h1>
+<h1 align="center">Hi 👋, I'm Varshith</h1>
+<h3 align="center">A passionate student exploring the world of tech</h3>
+
+---
+
+### 💡 About Me
+- 🔭 I’m currently working on improving my **web development** skills  
+- 🌱 Currently learning **CSS**, **JavaScript**, and how to build cool **web apps**  
+- 🤖 I love creating things that people can actually use  
+- ⚡ Fun fact: I'm always curious about how things work under the hood!
+
+---
+
+### 🧠 Skills & Tools
 
 <p align="center">
-  🌱 Exploring the world of tech<br>
-  💡 Passionate about building web applications and software<br>
-  🖥️ Currently learning and growing my skills in HTML5 and beyond<br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🛠️ Projects
 
-I'm a student who loves to build cool things using technology. I'm always curious to learn something new — especially when it comes to web development and software innovation. Right now, I'm focusing on sharpening my skills in **HTML5**, and soon I'll be diving deeper into CSS, JavaScript, and more!
+> Here are a few things I’m working on:
 
----
-
-### 🛠️ Tech Stack
-
-- 💻 HTML5  
-- 🌐 Web Fundamentals  
-- 📘 Currently learning: CSS3, JavaScript  
-
----
-
-### 📌 Projects
-
-Here are a few things I'm working on or planning to start soon:
-- [Portfolio Website](#) *(coming soon)*  
-- [My First Web App](#) *(stay tuned!)*  
-
-> I’ll keep updating this space as I grow 💪
+- 🧪 **Portfolio Website** – show who I am and what I build  
+- 🔧 **Mini Web Tools** – calculators, converters, and more (coming soon)  
+- 💡 **Cool Concepts** – experiments with HTML/CSS animations and interactions  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith-dev&show_icons=true&theme=radical" alt="Varshith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshith-dev&show_icons=true&theme=tokyonight" alt="stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-dev&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+### 🔗 Connect with Me
 
-> “The best way to predict the future is to invent it.” – Alan Kay
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: *[your-email-here]*  
-- 🧑‍💻 LinkedIn / Twitter / Portfolio: *[links if any]*
+- 📬 Email: *[Add your email here]*  
+- 🌐 Portfolio: *Coming soon!*  
 
 ---
 
-Thanks for visiting! Come back soon for updates! 😊
+### ✨ Quote to Live By
+> “Dream big. Start small. But most of all, start.” – Simon Sinek
+
+---
+
+<p align="center">Thanks for visiting my profile! 🚀</p>
