@@ -28,8 +28,7 @@
 
 > Here are a few things I’m working on:
 
-- 🧪 **Portfolio Website** – show who I am and what I build  
-- 🔧 **Mini Web Tools** – calculators, converters, and more (coming soon)  
+
 - 💡 **Cool Concepts** – experiments with HTML/CSS animations and interactions  
 
 ---
