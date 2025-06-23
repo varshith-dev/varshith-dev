@@ -45,7 +45,7 @@
 
 ### 🔗 Connect with Me
 
-- 📬 Email: *varshith.code@gmail.com*  
+- 📬 Email: *<a href="mailto:varshith.code@gmail.com">varshith.code@gmail.com</a>*  
 - 🌐 Portfolio: *Coming soon!*  
 
 ---
