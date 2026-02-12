@@ -15,10 +15,7 @@
 * **Infrastructure:** Managing personal web infrastructure for domains including `truvgo.me` and `truvgo.tech`.
 
 ---
-## 📱 App Cameo
-<p align="center">
-  <img src="YOUR_MOCKUP_OR_GIF_URL" width="800" alt="App Preview">
-</p>
+
 
 ### 🛠️ Technical Arsenal
 
