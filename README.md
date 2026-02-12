@@ -9,7 +9,7 @@
 ---
 
 ### 📝 Executive Summary
-* **Education:** B.Tech in Data Science student.
+* **Education:** B.Tech in Data Science student at Malla Reddy University.
 * **Current Focus:** Developing scalable web applications and exploring Cloud Computing platforms.
 * **Innovation:** Participant in the Purdue University EPICS program, focusing on Agriculture and Rural Development.
 * **Infrastructure:** Managing personal web infrastructure for domains including `truvgo.me` and `truvgo.tech`.
@@ -18,17 +18,18 @@
 
 ### 🛠️ Technical Arsenal
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend & Animation
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anti--Gravity-FF4154?style=for-the-badge&logo=antigravity&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### 🤖 AI & Backend
 <p align="left">
+  <img src="https://img.shields.io/badge/Gemini_AI_Studio-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
