@@ -1,83 +1,204 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Varshith+Chowdary;Full+Stack+Developer;Data+Science+Student" alt="Typing SVG" />
-</h1>
+````md
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshith-dev&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="varshith-dev" />
-</p>
+# Varshith Chowdary
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Cloud+Engineer;LLM+Deployment+Specialist;Data+Science+Student" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=varshith-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6" />
+<img src="https://img.shields.io/github/followers/varshith-dev?style=for-the-badge&color=0E75B6" />
+<img src="https://img.shields.io/github/stars/varshith-dev?style=for-the-badge&color=0E75B6" />
+
+</div>
 
 ---
 
-### 📝 Executive Summary
-* **Education:** B.Tech in Data Science student at Malla Reddy University.
-* **Current Focus:** Developing scalable web applications and exploring Cloud Computing platforms.
-* **Innovation:** Participant in the Purdue University EPICS program, focusing on Agriculture and Rural Development.
-* **Infrastructure:** Managing personal web infrastructure for domains including `truvgo.me` and `truvgo.tech`.
+## Overview
+
+```yaml
+Name: Varshith Chowdary
+Role: Full Stack Developer & AI Engineer
+University: Malla Reddy University
+Degree: B.Tech in Data Science
+
+Specialization:
+  - AI Infrastructure
+  - LLM Deployment
+  - Cloud Engineering
+  - Backend Systems
+  - Full Stack Applications
+
+Current Focus:
+  - Scalable AI systems
+  - Lightweight LLM inference
+  - Cloud-native deployments
+  - Production backend architecture
+
+Domains:
+  - truvgo.me
+  - truvgo.tech
+````
 
 ---
 
+## Tech Stack
 
-### 🛠️ Technical Arsenal
+### Frontend
 
-#### 🌐 Frontend & Animation
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anti--Gravity-FF4154?style=for-the-badge&logo=antigravity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,vite" />
 </p>
 
-#### 🤖 AI & Backend
+### Backend & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,cpp,postgres,supabase" />
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini_AI_Studio-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Deployment-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Inference-FF6F00?style=for-the-badge" />
 </p>
 
-#### ☁️ Cloud & Deployment
+---
+
+## LLM Deployment Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### Models Worked With
+
+* Gemma 2B
+* Microsoft Phi-4 Mini
+* Qwen 2.5 3B
+
+</td>
+
+<td width="50%">
+
+### Deployment Stack
+
+* llama.cpp
+* llama-cpp-python
+* FastAPI
+* Uvicorn
+* NGINX
+* GGUF Quantization
+
+</td>
+</tr>
+</table>
+
+---
+
+## Cloud & Infrastructure
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,github,vscode" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+### Infrastructure Experience
+
+```txt
+• AI Backend Hosting
+• Linux VM Administration
+• Reverse Proxy Architecture
+• Cloud VM Deployments
+• Scalable API Infrastructure
+• Production AI Inference
+• CI/CD Pipelines
+• Lightweight Edge AI Systems
+```
 
 ---
 
-### 🚀 Key Projects & Initiatives
-* **University Solutions:** Developing applications scheduled for launch at Malla Reddy University.
-* **EPICS Purdue:** Technical lead for solutions in Agriculture and Rural Development.
-* **Cloud Platform:** Authoring comprehensive documentation on "Cloud Computing Is a Platform".
+## Projects
+
+### University Solutions
+
+Developing scalable systems and digital platforms for deployment within Malla Reddy University.
+
+### Purdue EPICS Program
+
+Contributing technical solutions for Agriculture and Rural Development initiatives under Purdue University EPICS.
+
+### AI Infrastructure Systems
+
+Building lightweight AI inference infrastructure using quantized language models hosted on cloud Linux environments.
+
+### Cloud Computing Research
+
+Authoring technical research and documentation on scalable cloud-native infrastructure systems.
 
 ---
 
-### 📊 GitHub Ecosystem
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith-dev&show_icons=true&theme=nord&count_private=true&hide_border=false" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-dev&layout=compact&theme=nord&hide_border=false" width="300" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-dev&theme=nord&hide_border=false" width="710" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varshith-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/varshith-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:varshith.code@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+## Development Philosophy
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" />
-</p>
+```txt
+Build scalable systems.
+Deploy practical AI.
+Engineer reliable infrastructure.
+Create technology with impact.
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/varshith-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:varshith.code@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=varshith-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0E75B6&section=footer"/>
+
+</div>
+```
