@@ -1,42 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=180&section=header&text=Varshith%20Chowdary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Varshith%20Chowdary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Infrastructure+Engineer;LLM+Deployment+Specialist;Cloud+Native+Systems;Backend+%26+Inference+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Infrastructure+Engineer;LLM+Deployment+Specialist;Cloud+Native+Systems;Backend+Architecture+Engineer"/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
-  <img src="https://komarev.com/ghpvc/?username=varshith-dev&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/stars/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=varshith-dev&style=for-the-badge&color=0E75B6"/>
+
+<img src="https://img.shields.io/github/followers/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
+
+<img src="https://img.shields.io/github/stars/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
 
 </div>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"> Profile
+# About Me
 
-```yaml
-Name: Varshith Chowdary
-Role: Full Stack Developer & AI Engineer
-Education: B.Tech in Data Science
-University: Malla Reddy University
+<table>
+<tr>
+<td width="65%">
 
-Focus:
-  - AI Infrastructure
-  - LLM Deployment
-  - Cloud Architecture
-  - Backend Systems
-  - Full Stack Development
+Building scalable AI systems, cloud-native infrastructure, and production-grade backend architectures.
 
-Domains:
-  - truvgo.me
-  - truvgo.tech
-```
+Currently focused on:
+
+- Lightweight LLM inference systems
+- AI backend infrastructure
+- Cloud-native deployments
+- Full stack applications
+- Scalable API engineering
+- Quantized language model deployment
+
+</td>
+
+<td width="35%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=varshith-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="28"> Tech Stack
+# Domains & Platforms
+
+<div align="center">
+
+<a href="https://truvgo.me">
+<img src="https://img.shields.io/badge/truvgo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://oqens.me">
+<img src="https://img.shields.io/badge/oqens.me-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://orenai.tech">
+<img src="https://img.shields.io/badge/orenai.tech-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Tech Stack
 
 <div align="center">
 
@@ -44,51 +73,63 @@ Domains:
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Gemini_AI_Studio-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Inference-FF6F00?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Open_Source_LLMs-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Inference_Engineering-FF6F00?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="28"> LLM Deployment Experience
+# LLM Deployment Experience
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%">
 
 ### Models
 
 <img src="https://img.shields.io/badge/Gemma_2B-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Phi_4_Mini-0078D4?style=for-the-badge&logo=microsoft"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Qwen_2.5_3B-7A42F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Phi_4_Mini-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Qwen_2.5_3B-7C3AED?style=for-the-badge"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### Deployment Stack
 
 <img src="https://img.shields.io/badge/llama.cpp-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/llama--cpp--python-00599C?style=for-the-badge&logo=python"/>
+<br/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
+<br/>
+
 <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -96,7 +137,7 @@ Domains:
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/4149/4149673.png" width="28"> Cloud Infrastructure
+# Cloud Infrastructure
 
 <div align="center">
 
@@ -104,7 +145,7 @@ Domains:
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -120,32 +161,31 @@ Domains:
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="28"> Infrastructure Experience
+# Infrastructure Experience
 
-```txt
-• AI Backend Hosting
-• Oracle Cloud VM Deployments
-• Azure Cloud Services
-• Linux Server Administration
-• Reverse Proxy Architecture
-• Production AI Inference APIs
-• Quantized GGUF Deployments
-• Lightweight Edge AI Systems
-• CI/CD Pipelines
-• Cloud Native Systems
-```
+<div align="center">
+
+| Systems | Infrastructure |
+|---|---|
+| AI Backend Hosting | Oracle Cloud VM Deployment |
+| Reverse Proxy Systems | Quantized GGUF Deployments |
+| Linux Administration | Scalable API Systems |
+| Lightweight LLM Hosting | Production AI Inference |
+| CI/CD Pipelines | Cloud Native Architecture |
+
+</div>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"> Current Work
+# Current Work
 
 <table>
 <tr>
 <td width="50%">
 
-### University Systems
+### University Platforms
 
-Developing scalable digital systems and platforms for university-level deployment.
+Developing scalable systems and digital infrastructure for university-level deployment.
 
 </td>
 
@@ -153,7 +193,7 @@ Developing scalable digital systems and platforms for university-level deploymen
 
 ### AI Infrastructure
 
-Building lightweight AI inference infrastructure using quantized LLMs.
+Building lightweight cloud-hosted inference systems using quantized language models.
 
 </td>
 </tr>
@@ -171,7 +211,7 @@ Technical contributor for Agriculture and Rural Development initiatives.
 
 ### Cloud Research
 
-Authoring technical documentation on scalable cloud-native infrastructure.
+Researching scalable cloud-native backend architectures and AI systems.
 
 </td>
 </tr>
@@ -179,7 +219,7 @@ Authoring technical documentation on scalable cloud-native infrastructure.
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="28"> GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -189,7 +229,7 @@ Authoring technical documentation on scalable cloud-native infrastructure.
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -197,7 +237,7 @@ Authoring technical documentation on scalable cloud-native infrastructure.
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -207,7 +247,7 @@ Authoring technical documentation on scalable cloud-native infrastructure.
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="28"> Connect
+# Connect
 
 <div align="center">
 
