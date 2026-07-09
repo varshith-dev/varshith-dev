@@ -5,13 +5,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Infrastructure+Engineer;LLM+Deployment+Specialist;Cloud+Native+Systems;Backend+Architecture+Engineer"/>
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=varshith-dev&style=for-the-badge&color=0E75B6"/>
 
 <img src="https://img.shields.io/github/followers/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
 
 <img src="https://img.shields.io/github/stars/varshith-dev?style=for-the-badge&color=0E75B6&labelColor=111111"/>
 
+<br/><br/>
+
+<a href="https://studentambassadors.microsoft.com/">
+  <img
+    src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelNew.png"
+    alt="Microsoft Learn Student Ambassador"
+    height="110"
+  />
+</a>
 </div>
 
 ---
