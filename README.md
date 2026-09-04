@@ -13,14 +13,7 @@
 
 <br/><br/>
 
-<a href="https://studentambassadors.microsoft.com/">
-  <img
-    src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelNew.png"
-    alt="Microsoft Learn Student Ambassador"
-    height="110"
-  />
-</a>
-</div>
+
 
 ---
 
